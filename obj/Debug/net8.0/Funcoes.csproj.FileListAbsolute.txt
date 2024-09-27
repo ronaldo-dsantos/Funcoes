@@ -1,0 +1,14 @@
+c:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Funcoes\bin\Debug\net8.0\Funcoes.exe
+c:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Funcoes\bin\Debug\net8.0\Funcoes.deps.json
+c:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Funcoes\bin\Debug\net8.0\Funcoes.runtimeconfig.json
+c:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Funcoes\bin\Debug\net8.0\Funcoes.dll
+c:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Funcoes\bin\Debug\net8.0\Funcoes.pdb
+c:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Funcoes\obj\Debug\net8.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Funcoes\obj\Debug\net8.0\Funcoes.AssemblyInfoInputs.cache
+c:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Funcoes\obj\Debug\net8.0\Funcoes.AssemblyInfo.cs
+c:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Funcoes\obj\Debug\net8.0\Funcoes.csproj.CoreCompileInputs.cache
+c:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Funcoes\obj\Debug\net8.0\Funcoes.dll
+c:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Funcoes\obj\Debug\net8.0\refint\Funcoes.dll
+c:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Funcoes\obj\Debug\net8.0\Funcoes.pdb
+c:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Funcoes\obj\Debug\net8.0\Funcoes.genruntimeconfig.cache
+c:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\Funcoes\obj\Debug\net8.0\ref\Funcoes.dll
